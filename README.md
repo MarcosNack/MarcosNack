@@ -1,5 +1,5 @@
 # Olá, meu nome ***Marcos Nack*** 👋
-Sou programador **Python** apaixonado por automação e melhoria de processo utilizando programação, além de Python também tenho experiencia com **Git** e **SQL**.
+Sou programador ***Python*** apaixonado por automação e melhoria de processo utilizando programação, além de Python também tenho experiencia com ***Git*** e ***SQL***.
 
 ### Conhecimentos com ***Git*** ![image](https://github.com/MarcosNack/MarcosNack/assets/91231959/5bb804fd-3982-4875-87c7-a41f41b3bcaa):
   - Criar projetos
