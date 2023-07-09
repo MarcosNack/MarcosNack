@@ -1,5 +1,5 @@
 # Olá, meu nome ***Marcos Nack*** 👋
-Sou programador **Python** apaixonado por automação e melhoria de processo utiliazando programação, além de Python também tenho experiencia com **Git** e **SQL**.
+Sou programador **Python** apaixonado por automação e melhoria de processo utilizando programação, além de Python também tenho experiencia com **Git** e **SQL**.
 
 ### Conhecimentos com ***Git*** ![image](https://github.com/MarcosNack/MarcosNack/assets/91231959/5bb804fd-3982-4875-87c7-a41f41b3bcaa):
   - Criar projetos
@@ -16,6 +16,15 @@ Sou programador **Python** apaixonado por automação e melhoria de processo uti
   - Manipulação de banco de dados
   - Montagem de indicadores
   - Raspagem de dados da web
+  - Tenho conhecimento com a bibliotecas
+    -  matplotlib
+    -  numpy
+    -  odbc
+    -  pandas
+    -  pyside6
+    -  selenium
+    -  sqlite3
+    -  entre outras.
 
 ### Conhecimentos com ***SQL*** ![image](https://github.com/MarcosNack/MarcosNack/assets/91231959/144e21ed-5c03-43ec-b285-afccfc81a9b0):
   - Criação e configuração do banco de dados
